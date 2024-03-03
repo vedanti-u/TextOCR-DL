@@ -30,8 +30,7 @@ Our dataset boasts approximately 1 million high-quality word annotations on Text
 
 Ready to explore? Click below to grab your copy of the TextOCR dataset! (Warning: 7 GB of pure data awesomeness awaits you!)
 
-[Download Now (7 GB)]([kaggle_link](https://www.kaggle.com/datasets/robikscube/textocr-text-extraction-from-images-dataset))
-
+[Download Now (7 GB)](https://www.kaggle.com/datasets/robikscube/textocr-text-extraction-from-images-dataset)
 
 ## What's Inside 📦
 
@@ -65,7 +64,7 @@ OCR isn't just about deciphering text; it's about unlocking the potential of vis
 
 ## Contributors 🙌
 
-- [Vedanti Udapure]([vedanti-u](https://github.com/vedanti-u))
+- [Vedanti Udapure](https://github.com/vedanti-u)
 - Shri Ramdeobaba College of Engineering and Management
 - 6th Semester Project (Deep Learning Lab)
 
