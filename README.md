@@ -31,6 +31,25 @@ The code downloads a dataset from Kaggle using the Kaggle API. It extracts image
 
 Before diving into OCR, we prep our images. From grayscale conversions to noise reduction, we ensure our data is primed for accurate text extraction.
 
+### Steps followed so far : 
+
+- Step 1: Making necessary imports
+
+- Step 2: Data source import and extraction
+
+- Step 3: Displaying first 25 images
+
+- Step 4: Preprocessing using OpenCV
+
+- Step 5: Inverted Images
+
+- Step 6: Binarization
+
+- Step 7: Noise Removal
+
+- Step 8: Dilation and Erosion
+
+
 ### OCR Techniques 🤖
 
 _With our images prepped, it's time to wield the power of OCR. We explore various techniques, from basic binarization to sophisticated morphological operations, to extract text seamlessly._
