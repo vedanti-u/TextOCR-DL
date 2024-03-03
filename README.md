@@ -8,6 +8,31 @@ Welcome to my OCR (Optical Character Recognition) project! Here, we dive into th
 2. **Install Dependencies**: Make sure you have all the required packages.
 3. **Run Notebook**: Dive into the notebook and unleash the power of OCR!
 
+
+## About Dataset
+
+Our dataset boasts approximately 1 million high-quality word annotations on TextVQA images. With TextOCR, your models can effortlessly perform text recognition on scene-text, even in the wildest of images! 🚀
+
+## Usability
+
+- **Rating**: 🌟🌟🌟🌟🌟 (10.00)
+- **License**: CC0 - Public Domain 🎉
+- **Expected Update Frequency**: Never ❌
+
+## Tags
+
+- Image 📷
+- Text 📝
+- Computer Vision 👀
+- Neural Networks 🧠
+
+## 🚀 Download Dataset
+
+Ready to explore? Click below to grab your copy of the TextOCR dataset! (Warning: 7 GB of pure data awesomeness awaits you!)
+
+[Download Now (7 GB)]([kaggle_link](https://www.kaggle.com/datasets/robikscube/textocr-text-extraction-from-images-dataset))
+
+
 ## What's Inside 📦
 
 ### Data Acquisition 📥
