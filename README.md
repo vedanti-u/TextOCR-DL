@@ -13,19 +13,6 @@ Welcome to my OCR (Optical Character Recognition) project! Here, we dive into th
 
 Our dataset boasts approximately 1 million high-quality word annotations on TextVQA images. With TextOCR, your models can effortlessly perform text recognition on scene-text, even in the wildest of images! 🚀
 
-## Usability
-
-- **Rating**: 🌟🌟🌟🌟🌟 (10.00)
-- **License**: CC0 - Public Domain 🎉
-- **Expected Update Frequency**: Never ❌
-
-## Tags
-
-- Image 📷
-- Text 📝
-- Computer Vision 👀
-- Neural Networks 🧠
-
 ## 🚀 Download Dataset
 
 Ready to explore? Click below to grab your copy of the TextOCR dataset! (Warning: 7 GB of pure data awesomeness awaits you!)
@@ -55,6 +42,19 @@ We don't just stop at text extraction. Our code visualizes the process every ste
 ## Why OCR ? 🌟
 
 OCR isn't just about deciphering text; it's about unlocking the potential of visual data. From digitizing historical documents to enabling accessibility features for the visually impaired, OCR has far-reaching implications in our digital world.
+
+## Usability
+
+- **Rating**: 🌟🌟🌟🌟🌟 (10.00)
+- **License**: CC0 - Public Domain 🎉
+- **Expected Update Frequency**: Never ❌
+
+## Tags
+
+- Image 📷
+- Text 📝
+- Computer Vision 👀
+- Neural Networks 🧠
 
 ## Let's Connect 🌐
 
