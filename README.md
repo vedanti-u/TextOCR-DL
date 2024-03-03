@@ -1,4 +1,4 @@
-# TextOCR - Extracting Text from Images 📸🔍
+# TextOCR - Text Extraction from Images 📸🔍
 
 Welcome to my OCR (Optical Character Recognition) project! Here, we dive into the fascinating world of extracting text from images. From deciphering handwritten notes to parsing printed documents, our code aims to unlock the potential of visual data.
 
